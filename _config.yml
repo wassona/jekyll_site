@@ -16,11 +16,11 @@
 title: Alex Wasson
 email: wasson.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alex Wasson is looking for jobz!
+For five years in the classroom, I presented information in concise, engaging, and compelling ways in an effort to create a meaningful impact in the lives of my students. As a full stack web developer, my mission is to bring that impact to a much broader audience by leveraging technology and collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wassona
+github_username:  alex__wasson
 
 # Build settings
 markdown: kramdown
